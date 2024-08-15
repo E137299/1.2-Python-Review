@@ -1,8 +1,9 @@
 # 1.2 Python-Review
 
 ## Python Review Notes
-[Python Notes](https://drive.google.com/drive/folders/1qjB9FMWxZHhXOouDr0D22zN7S0-rF4_w?usp=sharing)
+[Notes](https://drive.google.com/drive/folders/1qjB9FMWxZHhXOouDr0D22zN7S0-rF4_w?usp=sharing)
 
+<br></br><br></br>
 ## Swap Digits of a Two-Digit Integer
 **Objective**: Write a Python script to swap the digits of a two-digit integer and print the result.
 
@@ -20,6 +21,7 @@ Swap these digits to form a new integer.
 **Output**
 - Print the new integer obtained by swapping the digits.
 
+<br></br><br></br>
 ## Calculate the Number of Desks Required
 **Objective**: Write a Python script to calculate the smallest number of desks needed for three classrooms, given the number of students in each class. Each desk can seat two students.
 
@@ -37,6 +39,7 @@ first, second, and third.
 
 - Print the number of desks for each room and the total number of desks needed for all three classrooms combined.
 
+<br></br><br></br>
 ## Extract and Print the Last Two Digits
 **Objective**: Write a Python script to extract and print the last two digits of a given integer that is greater than 9.
 
